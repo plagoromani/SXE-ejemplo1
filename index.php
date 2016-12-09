@@ -1,1 +1,3 @@
-<h1>Hola Mundo</h1>
+<?php include("header.php"); ?>
+<?php include("sidebar.php"); ?>
+<?php include("footer.php"); ?>
