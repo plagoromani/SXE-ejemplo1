@@ -12,7 +12,12 @@
 	<li>Pablite5 ©</li>
 	
 </div>
-
+<div id="nuevo">
+	<li> Política de privacidad</li>
+	<li> Condiciones legales</li>
+	<li> Galletas</li>
+	<li> RRSS</li>
+</div>
 		</footer>
 	
 		      

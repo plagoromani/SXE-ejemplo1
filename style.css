@@ -104,7 +104,18 @@ Version: 1.0
 	margin: 0;
 }
 
+.footer-distributed{display: table}
+
 #direccion{
+	display:table-cell;
+	vertical-align:middle;
+	padding:10px;
+	width:33%;
+	text-align:center;
+	color: white;
+	list-style-type: none;
+}
+#nuevo{
 	display:table-cell;
 	vertical-align:middle;
 	padding:10px;
