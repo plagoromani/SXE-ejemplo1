@@ -3,8 +3,17 @@
 <head>
 		<title>Menú</title>
 		<link rel="stylesheet" type="text/css" href="wp-content/themes/TEMAZO/header.css">
-	</head>
-	<body>
+		<meta charset="UTF-8">
+  <title>Simple Sidebar</title>
+  <link rel="stylesheet" href="wp-content/themes/TEMAZO/sidebar.css">
+  <link rel="stylesheet" href="wp-content/themes/TEMAZO/font-awesome/css/font-awesome.min.css">
+  	<link rel="stylesheet" type="text/css" href="wp-content/themes/TEMAZO/footer.css">
+
+</head>
+<body>
+	
+
+	
 		<div id="header">
 			<div id="menu">
 			<ul class="nav">
@@ -14,9 +23,9 @@
 						<li><a href="">Trabajos</a></li>
 						<li><a href="">Ejemplos</a></li>
 						<li><a href="">Colaboraciones</a></li>
-
+	</ul>
 						</li>
-					</ul>
+				
 				</li>
 				<li><a href="">Externo</a>
 					<ul>

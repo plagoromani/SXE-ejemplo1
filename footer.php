@@ -1,6 +1,5 @@
-<!DOCTYPE>
-<html>
-	<link rel="stylesheet" type="text/css" href="wp-content/themes/TEMAZO/footer.css">
+
+
     
         
  
@@ -8,10 +7,10 @@
 
 			<div class="footer-right">
 
-				<a href=""><i class="wp-content/themes/TEMAZO/imagenes/facebook.jpg"></i></a>
-				<a href=""><i class="wp-content/themes/TEMAZO/imagenes/twitter.pngr"></i></a>
-				<a href=""><i class="wp-content/themes/TEMAZO/imagenes/linkedin.jpg"></i></a>
-				<a href=""><i class="wp-content/themes/TEMAZO/imagenes/GitHub.png"></i></a>
+				<a href=""><i class=""></i></a>
+				<a href=""><i class=""></i></a>
+				<a href=""><i class=""></i></a>
+				<a href=""><i class=""></i></a>
 
 			</div>
 
@@ -36,5 +35,7 @@
 
 		</footer>
 	
-		       
+		      
+		      	
+		      </body> 
 		</html>
